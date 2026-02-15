@@ -21,7 +21,7 @@
 
 ## Notes and Projects
 Notes will be added like below:
-- Chapter1/concept1.md
-- Chapter1/concept2.md
-- Chapter2/bellman_equation1.md
-- Chapter2/bellman_equation2.md
+- Chapter1/concept.md
+- Chapter1/gridworld_examples.md
+- Chapter1/markov_decision_process.md
+- Chapter1/foundamental_concepts.md
