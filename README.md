@@ -21,5 +21,7 @@
 
 ## Notes and Projects
 Notes will be added like below:
-- Chapter1/26-2-13.md: Markov Decision Processs (MDPs)  
-- Chapter1/26-2-15.md: Dynamic Programming
+- Chapter1/concept1.md
+- Chapter1/concept2.md
+- Chapter2/bellman_equation1.md
+- Chapter2/bellman_equation2.md
